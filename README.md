@@ -4,7 +4,7 @@ TODO is an android app that allows building a todo list and basic todo items man
 
 Submitted by: Leonard Box
 
-Time spent: **X** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
